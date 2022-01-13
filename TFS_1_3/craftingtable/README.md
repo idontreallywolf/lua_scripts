@@ -14,6 +14,7 @@
 ![1](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/craftingtable/setup/4.png)
 
 Add the contents from `global.lua` into `data/global.lua`
+
 Place `craftingtable.lua` inside `data/scripts` folder.
 
 ## Preview
