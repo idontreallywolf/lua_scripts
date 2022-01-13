@@ -16,9 +16,9 @@ Place `battlecity.lua`, `main.lua`, `settings.lua` and `toollib.lua` inside `dat
 * Setup a 1x4 area along with a lever having an actionid as shown in **Figure #3** and configure `'from'` and `'to'` positions in `BattleCity.config.enterTiles`
 * Place obstacles in the arena in anyway you like but make sure the ID is same as `BattleCity.config.obstacleId`
 
-**Figure #1**
+**Figure #1**<br>
 ![f1](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/battle_city/setup/1.png)
-**Figure #2**
+<br>**Figure #2**<br>
 ![f2](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/battle_city/setup/2.png)
-**Figure #3**
+<br>**Figure #3**<br>
 ![f3](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/battle_city/setup/3.png)
