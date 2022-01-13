@@ -39,5 +39,7 @@ LEVER_ENTER_AID     = 13442
 ```
 
 ![setup](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/bomberman/setup/1.png)
+
 ![winner](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/bomberman/setup/winner.png)
+
 ![preview](https://github.com/idontreallywolf/lua_scripts/blob/main/TFS_1_3/bomberman/setup/preview.gif)
